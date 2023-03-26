@@ -1,0 +1,12 @@
+C:\Users\Hafiz\Desktop\BUV 22 01 Programmering C#.NET\Slutuppgift Prague Parking\PragueParking\Classes\bin\Debug\net5.0\Classes.deps.json
+C:\Users\Hafiz\Desktop\BUV 22 01 Programmering C#.NET\Slutuppgift Prague Parking\PragueParking\Classes\bin\Debug\net5.0\Classes.dll
+C:\Users\Hafiz\Desktop\BUV 22 01 Programmering C#.NET\Slutuppgift Prague Parking\PragueParking\Classes\bin\Debug\net5.0\Classes.pdb
+C:\Users\Hafiz\Desktop\BUV 22 01 Programmering C#.NET\Slutuppgift Prague Parking\PragueParking\Classes\obj\Debug\net5.0\Classes.csproj.AssemblyReference.cache
+C:\Users\Hafiz\Desktop\BUV 22 01 Programmering C#.NET\Slutuppgift Prague Parking\PragueParking\Classes\obj\Debug\net5.0\Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hafiz\Desktop\BUV 22 01 Programmering C#.NET\Slutuppgift Prague Parking\PragueParking\Classes\obj\Debug\net5.0\Classes.AssemblyInfoInputs.cache
+C:\Users\Hafiz\Desktop\BUV 22 01 Programmering C#.NET\Slutuppgift Prague Parking\PragueParking\Classes\obj\Debug\net5.0\Classes.AssemblyInfo.cs
+C:\Users\Hafiz\Desktop\BUV 22 01 Programmering C#.NET\Slutuppgift Prague Parking\PragueParking\Classes\obj\Debug\net5.0\Classes.csproj.CoreCompileInputs.cache
+C:\Users\Hafiz\Desktop\BUV 22 01 Programmering C#.NET\Slutuppgift Prague Parking\PragueParking\Classes\obj\Debug\net5.0\Classes.dll
+C:\Users\Hafiz\Desktop\BUV 22 01 Programmering C#.NET\Slutuppgift Prague Parking\PragueParking\Classes\obj\Debug\net5.0\refint\Classes.dll
+C:\Users\Hafiz\Desktop\BUV 22 01 Programmering C#.NET\Slutuppgift Prague Parking\PragueParking\Classes\obj\Debug\net5.0\Classes.pdb
+C:\Users\Hafiz\Desktop\BUV 22 01 Programmering C#.NET\Slutuppgift Prague Parking\PragueParking\Classes\obj\Debug\net5.0\ref\Classes.dll
